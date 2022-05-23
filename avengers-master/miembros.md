@@ -17,3 +17,5 @@
 * Vision
 * Wasp
 * Antman
+* Nick Furia
+* Howard the Duck
